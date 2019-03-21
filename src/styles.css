@@ -12,6 +12,7 @@
 .angular:hover {
   fill: #cb2b38;
 }
+
 h1 {
  font-family: Arial, Helvetica, sans-serif;
  color: #1C2E3F;
@@ -36,4 +37,8 @@ p {
 
 #projectsSection {
  width: 400px;
+}
+
+.svg:not(:hover) {
+  filter: invert(.5);
 }
