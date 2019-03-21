@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+
+#headshot {
+  margin-top: 60px;
+  width: 190px;
+  border-radius: 50%;
+  border-width: 5px;
+  border-color: #34DA88;
+  border-style: solid;
+}
+
+.angular:hover {
+  fill: #cb2b38;
+}
+h1 {
+ font-family: Arial, Helvetica, sans-serif;
+ color: #1C2E3F;
+ font-size: 80px;
+ font-weight: 600;
+}
+
+.accent {
+ color: #34DA88;
+}
+
+.text-align-center {
+ text-align: center;
+}
+
+p {
+ font-family: "Courier New";
+ color: #1C2E3F;
+ font-size: 18px;
+ font-weight: 600;
+}
+
+#projectsSection {
+ width: 400px;
+}
