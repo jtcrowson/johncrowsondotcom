@@ -1,3 +1,3 @@
 | [![GitHub Logo](assets/github-square-brands.svg)](https://github.com/pulls?q=is%3Apr+author%3Ajtcrowson+archived%3Afalse+is%3Aclosed) | [![Medium Logo](assets/medium-brands.svg)](https://medium.com/@jtcrowson) | [![Twitter Logo](assets/twitter-square-brands.svg)](https://twitter.com/john_crowson) | [![LinkedIn Logo](assets/linkedin-brands.svg)](https://www.linkedin.com/in/john-crowson-b9928452) |
 | - | - | - | - |
-| [OSS](https://github.com/pulls?q=is%3Apr+author%3Ajtcrowson+archived%3Afalse+is%3Aclosed) | [Blog](https://medium.com/@jtcrowson) | [Twitter](https://twitter.com/john_crowson) | [LinkedIn](https://www.linkedin.com/in/john-crowson-b9928452) |
+| [GitHub](https://github.com/pulls?q=is%3Apr+author%3Ajtcrowson+archived%3Afalse+is%3Aclosed) | [Medium](https://medium.com/@jtcrowson) | [Twitter](https://twitter.com/john_crowson) | [LinkedIn](https://www.linkedin.com/in/john-crowson-b9928452) |

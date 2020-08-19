@@ -1,4 +1,4 @@
-![John Crowson Headshot](assets/headshot.jpg)
+![John Crowson Headshot](assets/headshot.jpeg)
 
 # Hi, I'm John!
 
